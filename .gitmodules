@@ -2,3 +2,8 @@
 	path = xmarts/branch
 	url = git@github.com:xmarts/branch.git
 	branch = 15.0
+
+[submodule "xmarts/branch-accounting-report"]
+	path = xmarts/branch-accounting-report
+	url = git@github.com:xmarts/branch-accounting-report.git
+	branch = 15.0
