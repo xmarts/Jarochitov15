@@ -7,3 +7,6 @@
 	path = xmarts/branch-accounting-report
 	url = git@github.com:xmarts/branch-accounting-report.git
 	branch = 15.0
+[submodule "ieps_calculation"]
+	path = ieps_calculation
+	url = git@github.com:xmarts/ieps_calculation.git
